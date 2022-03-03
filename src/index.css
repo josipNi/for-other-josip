@@ -1,0 +1,14 @@
+html,
+body {
+    height: 100vh;
+    width: 100vw;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+#root,
+.wh-100 {
+    width: 100%;
+    height: 100%;
+}
